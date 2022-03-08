@@ -1,1 +1,1 @@
-Script to print working directory
+This directory contains answers to specific Bash questions.
